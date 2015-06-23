@@ -18,5 +18,5 @@ from django.conf.urls import url  # include, url
 
 urlpatterns = [
     #url(r'^admin/', include(admin.site.urls)),
-    url(r'^$', 'hello_world.views.home', name='home'),
+    url(r'^$', 'django_microproject.views.home', name='home'),
 ]

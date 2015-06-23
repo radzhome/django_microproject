@@ -49,7 +49,7 @@ INSTALLED_APPS = (
 #     'django.middleware.security.SecurityMiddleware',
 # )
 
-ROOT_URLCONF = 'hello_world.urls'
+ROOT_URLCONF = 'django_microproject.urls'
 
 # TEMPLATES = [
 #     {
